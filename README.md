@@ -1,5 +1,5 @@
 15th Nov 2017:
-1st Hapi Exercise. 
+1st Hapi Exercise with SQL access
 
 Check Illustrations for more info
 
